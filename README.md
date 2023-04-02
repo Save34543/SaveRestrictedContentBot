@@ -16,12 +16,12 @@ A stable telegram bot to get restricted messages with custom thumbnail support ,
 
 # Variables
 
-- `API_ID`
-- `API_HASH`
-- `SESSION`
-- `BOT_TOKEN` 
-- `AUTH` - Owner user id
-- `FORCESUB` - Public channel username without '@'. Don't forget to add bot in channel as administrator. 
+- `API_ID`29849842
+- `API_HASH`78266c1edb9db2e36611d0653ab75a92
+- `SESSION`BAHHePIAbln1u0ZngYzGEI8RsORo_JLDhwxxWTjg7XP1Hqc46PqoVaCfsEREyVwOFofnT-6hddSM39gkcMKoTVWAfFiAPpaMMNK5gkHpkSFlciE3UlKJnYXxDMsqv9FDKrecdZ6GQQfsnWqEqDYVAqhPomtUYP1FB-1al8FZhZUd5wldB3UqC3GHNwZON3w6dP31gvOTAOv54N4junxlgLtJpBF6rrcnwws-t5GP8n7TS49fV5wHYyBDqJ-5gozVXXZANcbcImxrCk9uGQGj0eG2b8CKXsz4NFAn4UA5rKILlj3lNgUGVk-HkYb7m2Jlg2m5lx4Zdxz1ODwYGqzWxmDyxsR3rAAAAAFxAGHOAA
+- `BOT_TOKEN` 5904898495:AAFHzJww7mlHmUfjDmQEN9JcyRyfjcm7jUA
+- `AUTH` - 6190817742
+- `FORCESUB` - xhhfx
 
 # Get API & PYROGRAM string session from:
  
